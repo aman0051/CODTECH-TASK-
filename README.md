@@ -1,5 +1,6 @@
 ## Predictive Modeling with Linear Regression on Weather Prediction Dataset
 
+![image](https://github.com/user-attachments/assets/c0a5140b-d0ba-4b48-98d7-889416931d6c)
 
 
 ### Overview of the Project
